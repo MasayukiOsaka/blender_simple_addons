@@ -26,7 +26,6 @@ If the distance is greater than this value, merging is not guaranteed.
 # Specifications
 This Add-on...
 * does not support UV Sync Selection.
-* does not merge across multiple objects.
 * can be merged across UV islands.
 * does not consider the edge seam.
 
