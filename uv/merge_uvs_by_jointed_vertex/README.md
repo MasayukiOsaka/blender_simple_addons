@@ -4,6 +4,10 @@ This add-on merge UVs if the corresponding vertices are merged.
 
 ![merge_uvs_by_jointed_vertex](https://user-images.githubusercontent.com/33594299/109412903-0d76d100-79ee-11eb-96b9-2153c49a04dc.gif)
 
+## Support Version
+
+2.90.0 or later
+
 # Install
 Copy **merge_uvs_by_jointed_vertex.py** to your addons folder.
 
