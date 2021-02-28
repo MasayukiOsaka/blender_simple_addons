@@ -25,3 +25,8 @@ This Add-on...
 * does not merge across multiple objects.
 * can be merged across UV islands.
 * does not consider the edge seam.
+
+# Author
+Masayuki Osaka
+
+![image](https://user-images.githubusercontent.com/33594299/109414691-8d556900-79f7-11eb-93fd-27e9a0079efe.png)![image](https://user-images.githubusercontent.com/33594299/109414698-90505980-79f7-11eb-8b6f-a0abbca0ef7c.png)
