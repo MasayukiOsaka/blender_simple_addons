@@ -7,6 +7,16 @@ This add-on merge UVs if the corresponding vertices are merged.
 # Useage
 
 1. Select UVs in Image-Editor
-2. Image-Editor (Edit Mode) > UV > Merge > By Jointed Vertex (or Shortcut [M] > By Jointed Vertec)
+2. Image-Editor (Edit Mode) > UV > Merge > By Jointed Vertex *(or Shortcut [M] > By Jointed Vertec)*
 
-*This Add-on doesn't support UV Sync Selection*
+## Operator Property
+### Threshold
+If the distance is greater than this value, merging is not guaranteed.
+![image](https://user-images.githubusercontent.com/33594299/109414061-34380600-79f4-11eb-9a8e-9a6301795ff3.png)
+
+# Specifications
+This Add-on...
+* does not support UV Sync Selection.
+* does not merge across multiple objects.
+* can be merged across UV islands.
+* does not consider the edge seam.
