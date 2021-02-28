@@ -25,10 +25,11 @@ bl_info = {
     'name': 'Merge UVs By Jointed Vertex',
     'author': 'Masayuki Osaka',
     'version': (1, 0),
-    'blender': (2, 80, 0),
+    'blender': (2, 90, 0),
     'location': 'Image-Window > UV > Merge > By Jointed Vertex',
     'description': 'Merge UVs if the corresponding vertices are merged',
     'support': 'COMMUNITY',
+    'wiki_url': 'https://github.com/MasayukiOsaka/blender_simple_addons/tree/main/uv/merge_uvs_by_jointed_vertex',
     'category': 'UV'
 }
 
