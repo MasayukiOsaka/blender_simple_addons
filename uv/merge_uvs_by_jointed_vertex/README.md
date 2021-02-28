@@ -13,6 +13,9 @@ Copy **merge_uvs_by_jointed_vertex.py** to your addons folder.
 
 e.g. {install_folder}/{version}/scripts/addons
 
+Then, Enable **Merge UVs By Jointed Vertex** in Edit > Preferences > Add-ons ( > UV ).
+![image](https://user-images.githubusercontent.com/33594299/109416265-8121d980-7a00-11eb-8cd9-1b98a5d718f9.png)
+
 # Useage
 
 1. Select UVs in Image-Editor
