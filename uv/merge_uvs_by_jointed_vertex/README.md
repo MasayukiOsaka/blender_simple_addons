@@ -16,7 +16,7 @@ e.g. {install_folder}/{version}/scripts/addons
 # Useage
 
 1. Select UVs in Image-Editor
-2. Image-Editor (Edit Mode) > UV > Merge > By Jointed Vertex *(or Shortcut [M] > By Jointed Vertec)*
+2. Image-Editor (Edit Mode) > UV > Merge > By Jointed Vertex *(or HotKey [M] > By Jointed Vertec)*
 
 ## Operator Property
 ### Threshold
