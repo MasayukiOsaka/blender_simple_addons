@@ -9,7 +9,7 @@ This add-on merge UVs if the corresponding vertices are merged.
 2.90.0 or later
 
 # Install
-Copy **merge_uvs_by_jointed_vertex.py** to your addons folder.
+Save **merge_uvs_by_jointed_vertex.py** to your addons folder.
 
 e.g. {install_folder}/{version}/scripts/addons
 
