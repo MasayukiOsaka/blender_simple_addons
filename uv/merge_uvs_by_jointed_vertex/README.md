@@ -19,7 +19,7 @@ Then, Enable **Merge UVs By Jointed Vertex** in Edit > Preferences > Add-ons ( >
 # Useage
 
 1. Select UVs in Image-Editor
-2. Image-Editor (Edit Mode) > UV > Merge > By Jointed Vertex *(or HotKey [M] > By Jointed Vertec)*
+2. Image-Editor (Edit Mode) > UV > Merge > By Jointed Vertex *(or HotKey [M] > By Jointed Vertex)*
 
 ## Operator Property
 ### Threshold
